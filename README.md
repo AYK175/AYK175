@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AYK175
 - 👀 I’m interested in AI, ML & DS.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently in final year of my bachelors in CS.
 - 💞️ I’m looking to collaborate on ML aided sentiment analysis projects.
 - 📫 How to reach me www.linkedin.com/in/ayk175
 
